@@ -1,0 +1,6 @@
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\bin\Debug\Digital-vackarklocka.exe.config
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\bin\Debug\Digital-vackarklocka.exe
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\bin\Debug\Digital-vackarklocka.pdb
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\obj\Debug\Digital-vackarklocka.csprojResolveAssemblyReference.cache
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\obj\Debug\Digital-vackarklocka.exe
+D:\Projects\1dv402-kn222gp-2-2-digital-vackarklocka\Digital-vackarklocka\obj\Debug\Digital-vackarklocka.pdb
