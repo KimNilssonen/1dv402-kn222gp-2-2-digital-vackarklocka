@@ -46,7 +46,7 @@ namespace Digital_vackarklocka
 
 
             // Test 6.
-            AlarmClock test6 = new AlarmClock(25, 61, 35, 71);
+            AlarmClock test6 = new AlarmClock();
             ViewTestHeader("\nTest 6:\nTesting the properties so that exceptions \nare thrown if the values are incorrect.");
 
             try
@@ -91,7 +91,7 @@ namespace Digital_vackarklocka
 
             try
             {
-                AlarmClock test7 = new AlarmClock(25, 0, 0, 0);
+                AlarmClock test7 = new AlarmClock(35, 0, 0, 0);
             }
             catch (ArgumentException)
             {

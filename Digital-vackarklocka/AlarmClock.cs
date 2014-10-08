@@ -84,11 +84,11 @@ namespace Digital_vackarklocka
 
         public AlarmClock(int hour, int minute, int alarmHour, int alarmMinute)
         {
-            _hour = hour;
-            _minute = minute;
+            Hour = hour;
+            Minute = minute;
 
-            _alarmHour = alarmHour;
-            _alarmMinute = alarmMinute;
+            AlarmHour = alarmHour;
+            AlarmMinute = alarmMinute;
         }
 
 
